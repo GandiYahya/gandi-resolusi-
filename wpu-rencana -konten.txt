@@ -2,5 +2,6 @@ rencana konten wpu
 - javascript
   * ES6
   * Framework javascript
+- struktur data dasar
 - php frameworl
 - vlogs
